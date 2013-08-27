@@ -1,0 +1,9 @@
+C:\Users\ifsp\Desktop\JogoMemoria\JogoDaMemoria\JogoDaMemoria\bin\Debug\JogoDaMemoria.exe
+C:\Users\ifsp\Desktop\JogoMemoria\JogoDaMemoria\JogoDaMemoria\bin\Debug\JogoDaMemoria.pdb
+C:\Users\ifsp\Desktop\JogoMemoria\JogoDaMemoria\JogoDaMemoria\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ifsp\Desktop\JogoMemoria\JogoDaMemoria\JogoDaMemoria\obj\x86\Debug\JogoDaMemoria.Form1.resources
+C:\Users\ifsp\Desktop\JogoMemoria\JogoDaMemoria\JogoDaMemoria\obj\x86\Debug\JogoDaMemoria.Properties.Resources.resources
+C:\Users\ifsp\Desktop\JogoMemoria\JogoDaMemoria\JogoDaMemoria\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ifsp\Desktop\JogoMemoria\JogoDaMemoria\JogoDaMemoria\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ifsp\Desktop\JogoMemoria\JogoDaMemoria\JogoDaMemoria\obj\x86\Debug\JogoDaMemoria.exe
+C:\Users\ifsp\Desktop\JogoMemoria\JogoDaMemoria\JogoDaMemoria\obj\x86\Debug\JogoDaMemoria.pdb
