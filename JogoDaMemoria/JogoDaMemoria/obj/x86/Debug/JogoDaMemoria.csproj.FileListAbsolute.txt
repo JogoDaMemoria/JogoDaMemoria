@@ -7,3 +7,11 @@ C:\Users\ifsp\Desktop\JogoMemoria\JogoDaMemoria\JogoDaMemoria\obj\x86\Debug\Gene
 C:\Users\ifsp\Desktop\JogoMemoria\JogoDaMemoria\JogoDaMemoria\obj\x86\Debug\GenerateResource.write.1.tlog
 C:\Users\ifsp\Desktop\JogoMemoria\JogoDaMemoria\JogoDaMemoria\obj\x86\Debug\JogoDaMemoria.exe
 C:\Users\ifsp\Desktop\JogoMemoria\JogoDaMemoria\JogoDaMemoria\obj\x86\Debug\JogoDaMemoria.pdb
+C:\Users\Bruno Silva\Documents\JogoDaMemoria\JogoDaMemoria\JogoDaMemoria\obj\x86\Debug\JogoDaMemoria.exe
+C:\Users\Bruno Silva\Documents\JogoDaMemoria\JogoDaMemoria\JogoDaMemoria\obj\x86\Debug\JogoDaMemoria.pdb
+C:\Users\Bruno Silva\Documents\JogoDaMemoria\JogoDaMemoria\JogoDaMemoria\bin\Debug\JogoDaMemoria.exe
+C:\Users\Bruno Silva\Documents\JogoDaMemoria\JogoDaMemoria\JogoDaMemoria\bin\Debug\JogoDaMemoria.pdb
+C:\Users\Bruno Silva\Documents\JogoDaMemoria\JogoDaMemoria\JogoDaMemoria\obj\x86\Debug\JogoDaMemoria.csprojResolveAssemblyReference.cache
+C:\Users\Bruno Silva\Documents\JogoDaMemoria\JogoDaMemoria\JogoDaMemoria\obj\x86\Debug\JogoDaMemoria.Form1.resources
+C:\Users\Bruno Silva\Documents\JogoDaMemoria\JogoDaMemoria\JogoDaMemoria\obj\x86\Debug\JogoDaMemoria.Properties.Resources.resources
+C:\Users\Bruno Silva\Documents\JogoDaMemoria\JogoDaMemoria\JogoDaMemoria\obj\x86\Debug\JogoDaMemoria.csproj.GenerateResource.Cache
