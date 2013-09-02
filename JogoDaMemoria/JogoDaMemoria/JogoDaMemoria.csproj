@@ -104,6 +104,33 @@
   <ItemGroup>
     <None Include="Resources\JogoMemoriaImg.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\circulo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Estrela.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hexagono.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Losango.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pentagono.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Quadrado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Retângulo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Trapezio.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Triângulo.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
