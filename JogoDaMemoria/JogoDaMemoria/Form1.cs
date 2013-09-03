@@ -21,8 +21,14 @@ namespace JogoDaMemoria
 
         }
 #region botoes click
+        int verifica = 0;
         private void button1_Click(object sender, EventArgs e)
         {
+            if (verifica == 0)
+            {
+                verifica = 1;
+            }
+            
             button1.BackgroundImage = Properties.Resources.CORACAO;
         }
 
@@ -191,6 +197,11 @@ namespace JogoDaMemoria
                 this.Close();
             }
           
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
